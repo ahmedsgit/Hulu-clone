@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import {BadgeCheckIcon, CollectionIcon, HomeIcon, LightBulbIcon, SearchIcon, UserIcon} from "@heroicons/react/outline";
+import {BadgeCheckIcon, CollectionIcon, HomeIcon, LightBulbIcon, SearchIcon, UserAddIcon, UserIcon} from "@heroicons/react/outline";
 import huluLogo from '../assets/image/hulu-logo.png';
 import HeaderItem from './HeaderItem';
 export default function Header() {
